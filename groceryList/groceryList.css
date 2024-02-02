@@ -21,6 +21,10 @@ ul{
 
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 li button {
     margin-left: 20px;
 }
