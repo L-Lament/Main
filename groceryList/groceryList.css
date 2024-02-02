@@ -1,3 +1,39 @@
 *{
+    margin: 0 auto;
     list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+div{
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+
+}
+
+li button {
+    margin-left: 20px;
+}
+
+
+
+button{
+    border-radius: 10px;
+    background-color: beige;
+    color: black;
+}
+
+input{
+    border-radius: 10px;
+    background-color: beige;
 }
